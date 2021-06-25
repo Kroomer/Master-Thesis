@@ -16,7 +16,7 @@ B. Settles and B. Meeder. 2016. A Trainable Spaced Repetition Model for Language
 In Proceedings of the Association for Computational Linguistics (ACL), pages 1848-1858. \
 Duolingo spaced repetition \
 Link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/N8XJME \
-**1.21 GB** \
+**1.21 GB** 
 
 SUBTLEX-US data \
 Manually created on \
