@@ -4,7 +4,8 @@
 
 This repository contains the outputted results for each individual model run in the experiments, as well as the plots present in this thesis (see appendices). 
 
-The .R file to create the replicated dataset from Coerver (2020) is available in addition to the pre-downloaded datasets used to replicate the extracted dataset. 
+The .R file to create the replicated dataset from Coerver (2020) is available in addition to the pre-downloaded datasets used to replicate the extracted dataset. \
+Link: https://github.com/Kroomer/Master_thesis/blob/main/Master%20Thesis/create_extracted_dataset.R
 
 All code is provided by comments to read, understand and replicate the experiments.
   \
