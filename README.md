@@ -24,7 +24,7 @@ Link: http://www.lexique.org/shiny/openlexicon/ \
 See "Lexique-query.csv" file
 
 Geoff Hollis and Chris Westbury based on Warriner, Kuperman and Brysbaert (2007) \
-Link: http://crr.ugent.be/programs-data
+Link: http://crr.ugent.be/programs-data \
 direct link: https://sites.ualberta.ca/~hollis/files/emotion_dict.csv
 
 Pre-created/downloaded data
