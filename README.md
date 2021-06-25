@@ -19,7 +19,8 @@ Link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/N
 **1.21 GB** \
 
 SUBTLEX-US data \
-manually created on: http://www.lexique.org/shiny/openlexicon/ \
+Manually created on \
+Link: http://www.lexique.org/shiny/openlexicon/ \
 See "Lexique-query.csv" file
 
 Geoff Hollis and Chris Westbury based on Warriner, Kuperman and Brysbaert (2007) \
